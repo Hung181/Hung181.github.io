@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web bán gear máy tính</title>
+</head>
+<body>
+<h1 style="color:green; text-align:center; text-decoration:underline">
+Đề tài: Xây dựng trang Web bán phụ kiện máy tính
+</h1> 
+<p style="font-size:175%">
+<strong style="color:blue"><i> Mô tả: </i></strong>
+Xây dựng trang web bán phụ kiện máy tính với các chức năng cho phép người mua và người bán tương tác trực tiếp với các sản phẩm và có thể tương tác với nhau.
+</p>
+<h2 style="text-decoration: underline">Các chức năng cơ bản của trang web:</h2>
+<div style="font-size:120%">
+<p>
+<strong> Người sử dụng: </strong>
+<p>
+<li type="circle">
+Tạo tài khoản và đăng nhập</li>
+<li type="circle">
+Xem tất cả sản phẩm trong Web, có thể xem chi tiết từng sản phẩm</li>
+<li type="circle">
+Tìm kiếm sản phẩm cần mua</li> 
+<li type="circle">
+Đặt hàng
+</li>
+</p>
+</p>
+<p> 
+<strong> Admin </strong>
+<p>
+<li type="circle">
+Có các tính năng như Người sử dụng 
+<li type="circle">
+Quản lý được tất cả các mục/sản phẩm có trong trang Web(thêm, xóa, chỉnh sửa,...)
+<li type="circle">
+Quản lý tài khoản người sử dụng
+</p>
+</p>
+</div>
+</body>
+</html> 
